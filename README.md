@@ -32,7 +32,7 @@
       <li>Born in Knoxville,Tennessee.</li>
       <li>Lived in Morristown,Tennessee until age 13</li>
       <li>Moved to Greenville,South Carolina and have been there since</li>
-      <li>I have worked at Quiktrip going on almost 3 years going back to senior year of highschool</li>
+      <li>I have worked at Quiktrip going on almost 3 years</li>
     </Ul>
   <h3>Who I am</h3>
     <ul>
